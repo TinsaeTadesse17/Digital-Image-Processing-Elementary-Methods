@@ -97,4 +97,3 @@ For an interactive, zero-setup experience, use the provided Jupyter Notebook.
 ## 👨‍💻 Author
 
 **Tinsae Tadesse**  
-Addis Ababa University
